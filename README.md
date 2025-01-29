@@ -2,7 +2,7 @@
 
 A comprehensive deep learning project that combines both detection and classification of traffic signs, utilizing state-of-the-art computer vision techniques and neural network architectures.
 
-> 📝 Originally presented at the Technology of Autonomous Vehicles Seminar  
+> 📝 Originally presented at the Technology of Autonomous Vehicles Students Seminar  
 > Topic 3: Traffic Sign Detection and Classification  
 > Authors: Mahmoud Maan, Hanju Chen
 
