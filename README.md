@@ -6,7 +6,7 @@ A comprehensive deep learning project that combines both detection and classific
 > Topic 3: Traffic Sign Detection and Classification  
 > Authors: Mahmoud Maan, Hanju Chen
 
-### 📑 [Read Our Full Research Paper Here](https://github.com/mahmoud-maan/Traffic-Signs-Detection-and-Classification/blob/main/Paper-Traffic_Sign_Detection_and_Classification.pdf)
+### 📑 [Read Our Full Research Report Here](https://github.com/mahmoud-maan/Traffic-Signs-Detection-and-Classification/blob/main/Paper-Traffic_Sign_Detection_and_Classification.pdf)
 
 ![Seminar Topic](test_images/paper_head.png)
 
